@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Talis André!</strong>
 
-> Tenho 15 anos, estou atualmente estudando algumas linguagens e desenho as vezes, e sou designer.
+> Tenho 15 anos, estou atualmente estudando algumas linguagens como Typescript e desenho as vezes, e sou designer.
 
 🔭 Eu atualmente estou trabalhando em 4 projetos, um deles fazendo com um grupinho de 3 pessoas.
 
