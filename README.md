@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é <strong>Talis André!</strong>
+## 💚 Olá, meu nome é <strong>Talis André!</strong> 
 
 > Tenho 15 anos, estou atualmente estudando algumas linguagens como Typescript e desenho as vezes, e sou designer.
 
@@ -10,6 +10,7 @@
   <a href="https://www.instagram.com/talisandr3/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://steamcommunity.com/id/BL4-Z3/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
+<img align="right" height="200" src="https://i.ibb.co/S0LZb2v/o-Eh4-Nw-Y0n-2.png">
 
 ----
 
